@@ -1,0 +1,16 @@
+>
+Author : Divakar Parashar
+<
+
+>
+details about connection to the server are saved in a file 
+/chat/protected/server.json
+file format
+    {"root":[
+	{"name":"localhost",//name of the server
+	"usr":"root",//who is user
+	"pass":""//authentication code for this connection
+    }
+    ]
+    }
+<    
